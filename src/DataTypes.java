@@ -29,22 +29,27 @@ public class DataTypes {
         System.out.println(Math.round(area));
 
         //Char
-
         char symbol = '$';
         System.out.println(symbol);
 
         //Exercise
-        char n = 78;
-        System.out.println(n);
+        char E = 69;
+        System.out.println(E);
+        char L = 76;
+        System.out.println(L);
+        char I = 73;
+        System.out.println(I);
+        char N = 78;
+        System.out.println(N);
+        char A = 65;
+        System.out.println(A);
 
-        //Boolean
+        //Boolean is/has
         boolean isRaining = false;
         boolean hasPassedExercise = true;
         boolean isSummer = false;
         System.out.println(isRaining);
         System.out.println(hasPassedExercise);
         System.out.println(isSummer);
-
-        
     }
 }
